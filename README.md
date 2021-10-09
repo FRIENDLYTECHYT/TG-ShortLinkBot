@@ -7,7 +7,7 @@ Make a short link by using [Bit.ly](https://bit.ly/) API key Or With [Da.gd](htt
 ### Installation
 
 #### Easy Way 
-Use [ShortLinkRobot](https://t.me/URLShortenRobot) with 10+ sites and inline Support !!
+Use [ShortLinkRobot](https://t.me/URLShorterxyzBot) with 10+ sites and inline Support !!
 
 #### The Simple Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
